@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-vampires",
+  "version": "1.0.0",
+  "description": "afternoon lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/samtanfl/Mongoose-Vampires.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
